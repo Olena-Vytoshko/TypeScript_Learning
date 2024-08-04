@@ -81,7 +81,7 @@ function example3()
     // console.log(n); // we can't print the value from here
 }
 
-/* TypeScript initDataTypes
+/* TypeScript DataTypes
 Primitive or built-in:
 string, number, boolean, void, undefined, null, never
 User-defined:
